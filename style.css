@@ -101,3 +101,7 @@ nav ul li a:hover{
 .social a:hover{
     color: #ff4321;
 }
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
